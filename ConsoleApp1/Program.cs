@@ -16,7 +16,10 @@ namespace ConsoleApp1 // Note: actual namespace depends on the project name.
             //S2023102001.Run(); // 문자열 둘러보기
             //S2023102002.Run(); // text rpg 2
             //S2023102003.Run(); // 배열
-            S2023102004.Run(); // 연습문제
+            //S2023102004.Run(); // 연습문제
+            //S2023102005.Run(); // 다차원 배열
+            //S2023102006.Run(); // List
+            S2023102007.Run(); // List
             
         }
     }
