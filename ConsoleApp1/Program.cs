@@ -19,7 +19,12 @@ namespace ConsoleApp1 // Note: actual namespace depends on the project name.
             //S2023102004.Run(); // 연습문제
             //S2023102005.Run(); // 다차원 배열
             //S2023102006.Run(); // List
-            S2023102007.Run(); // List
+            // S2023102101.Run(); // 제네릭
+            // S2023102102.Run(); // 인터페이스
+            // S2023102103.Run(); // property
+            // S2023102104.Run(); // Delegate (대리자)
+            // S2023102105.Run(); // Event
+            S2023102106.Run(); // Lambda
             
         }
     }
