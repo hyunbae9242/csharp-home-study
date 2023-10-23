@@ -36,7 +36,7 @@ public class S2023102106
 
         return null;
     }
-public static void Run()
+    public static void Run()
     {
         // Lambda : 일회용 함수를 만드는데 사용하는 문법
         _items.Add(new Item(){ ItemType = ItemType.Weapon, Rarity = Rarity.Normal});

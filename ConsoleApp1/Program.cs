@@ -24,8 +24,10 @@ namespace ConsoleApp1 // Note: actual namespace depends on the project name.
             // S2023102103.Run(); // property
             // S2023102104.Run(); // Delegate (대리자)
             // S2023102105.Run(); // Event
-            S2023102106.Run(); // Lambda
-            
+            // S2023102106.Run(); // Lambda
+            // S2023102301.Run(); // exception
+            // S2023102302.Run(); // reflection
+            S2023102303.Run(); // Nullable
         }
     }
 }
